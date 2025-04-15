@@ -1,0 +1,16 @@
+# Core packages
+streamlit>=1.25.0
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Visualization packages
+plotly>=5.13.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Machine learning packages
+scikit-learn>=1.2.0
+
+# Other utilities
+python-dateutil>=2.8.2
+Pillow>=9.4.0  # For image processing
